@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm studying to be a Full Stack Web Developer at Business College Helsinki. You can find all my projects here in this repo.  
 
 <!--
 **haidanglevn/haidanglevn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

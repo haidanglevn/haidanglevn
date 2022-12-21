@@ -4,6 +4,8 @@ I'm studying to be a Full Stack Web Developer at Business College Helsinki. You 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidanglevn)](https://github.com/anuraghazra/github-readme-stats)
 
+Here are some things that I made (and more are coming!):
+- Halloween themed Speedgame: (https://public.bc.fi/s2200738/speedgame/)
 
 <!--
 **haidanglevn/haidanglevn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

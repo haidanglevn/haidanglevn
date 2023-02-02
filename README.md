@@ -9,6 +9,8 @@ Here are some things that I made (and more are coming!):
 - Travel Planner app (team Project): (https://github.com/haidanglevn/BCH_Team5_TravelPlanner)
 - Halloween themed Speedgame: (https://public.bc.fi/s2200738/speedgame/)
 - PokeDex using PokeAPI: (https://public.bc.fi/s2200738/pokedex/)
+- Snake Game with Queue Data Structure implementation: (https://public.bc.fi/s2200738/snakegame/)
+
 
 <!--
 **haidanglevn/haidanglevn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

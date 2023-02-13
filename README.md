@@ -10,6 +10,7 @@ Here are some things that I made (and more are coming!):
 - Halloween themed Speedgame: (https://public.bc.fi/s2200738/speedgame/)
 - PokeDex using PokeAPI: (https://public.bc.fi/s2200738/pokedex/)
 - Snake Game with Queue Data Structure implementation: (https://public.bc.fi/s2200738/snakegame/)
+- Pizza Order website: (https://public.bc.fi/s2200738/pizzaorder/index.html)
 
 
 <!--

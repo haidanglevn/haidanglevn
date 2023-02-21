@@ -6,9 +6,11 @@ I'm studying to be a Full Stack Web Developer at Business College Helsinki. You 
 
 Here are some things that I made (and more are coming!):
 - TasteIT recipe app with ReactJS: (https://github.com/haidanglevn/react-tasteit)
-- Countries React app with API, React Toastify, Skeleton loading UI (https://github.com/haidanglevn/countries-react)
+- Countries React app with Redux, Firebase Authentication, React Toastify, Skeleton loading UI (https://github.com/haidanglevn/countries-react)
 - Tip calculator with TypeScript, HTML, CSS: (https://github.com/haidanglevn/tip-calculator-ts)
 - Travel Planner app (team Project): (https://github.com/haidanglevn/BCH_Team5_TravelPlanner)
+
+I have some live pages ready for you!
 - Halloween themed Speedgame: (https://public.bc.fi/s2200738/speedgame/)
 - PokeDex using PokeAPI: (https://public.bc.fi/s2200738/pokedex/)
 - Snake Game with Queue Data Structure implementation: (https://public.bc.fi/s2200738/snakegame/)

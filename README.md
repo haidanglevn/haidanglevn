@@ -7,7 +7,7 @@ I'm studying to be a Full Stack Web Developer at Business College Helsinki. You 
 Here are some things that I made (and more are coming!):
 - TasteIT recipe app with ReactJS: (https://github.com/haidanglevn/react-tasteit)
 - Countries React app with Redux, Firebase Authentication, React Toastify, Skeleton loading UI (https://github.com/haidanglevn/countries-react)
-- Tip calculator with TypeScript, HTML, CSS: (https://github.com/haidanglevn/tip-calculator-ts)
+- Tip calculator with TypeScript, HTML, CSS: (https://github.com/haidanglevn/ts-tip-calculator)
 - Travel Planner app (team Project): (https://github.com/haidanglevn/BCH_Team5_TravelPlanner)
 
 I have some live pages ready for you!

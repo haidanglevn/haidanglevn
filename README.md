@@ -11,6 +11,7 @@ Here are some things that I made (and more are coming!):
 - Travel Planner app (team Project): (https://github.com/haidanglevn/BCH_Team5_TravelPlanner)
 
 I have some live pages ready for you!
+- Countries React app with Redux, Firebase Authentication, React Toastify, Skeleton loading UI (https://countries-react-haidanglevn.netlify.app)
 - Halloween themed Speedgame: (https://public.bc.fi/s2200738/speedgame/)
 - PokeDex using PokeAPI: (https://public.bc.fi/s2200738/pokedex/)
 - Snake Game with Queue Data Structure implementation: (https://public.bc.fi/s2200738/snakegame/)

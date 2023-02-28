@@ -3,6 +3,7 @@
 I'm studying to be a Full Stack Web Developer at Business College Helsinki. You can find all my projects here in this repo.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidanglevn)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=haidanglevn&color=green)
 
 Here are some things that I made (and more are coming!):
 - TasteIT recipe app with ReactJS: (https://github.com/haidanglevn/react-tasteit)

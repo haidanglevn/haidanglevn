@@ -6,6 +6,12 @@ I'm studying to be a Full Stack Web Developer at Business College Helsinki. You 
 ![](https://komarev.com/ghpvc/?username=haidanglevn&color=green)
 
 Here are some things that I made (and more are coming!):
+- Exove Colleague Feedback: Team project in React TypeScript, NodeJS & MongoDB in collaboration with Exove. (https://github.com/orgs/Colleague-Feedback-Team-1/repositories)
+![Screenshot from 2023-05-17 17-47-57](https://github.com/haidanglevn/haidanglevn/assets/24937536/a1e32ae0-945b-4951-a4fb-1bbfed015d30)
+![Screenshot from 2023-05-23 23-35-45](https://github.com/haidanglevn/haidanglevn/assets/24937536/83dc452b-e86c-4001-8b5b-ae5bd5eebe6e)
+![Screenshot from 2023-05-23 23-39-50](https://github.com/haidanglevn/haidanglevn/assets/24937536/87d9f2b0-f3e0-4bc2-8dff-0b49f0443a31)
+
+
 - Movie Theater App in TypeScript & React: (https://github.com/haidanglevn/MovieTheaterApp-ts)
 ![Screenshot 2023-03-16 at 15 39 31](https://user-images.githubusercontent.com/24937536/225635151-7dcf347f-f2b0-47c2-8eb4-a5f59b590bd8.png)
 

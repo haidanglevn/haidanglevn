@@ -11,6 +11,10 @@ Here are some things that I made (and more are coming!):
 ![ecomecho2](https://github.com/haidanglevn/haidanglevn/assets/24937536/bc4266ed-f30b-4cc3-ab2f-2af780d2e2cc)
 ![ecomecho3](https://github.com/haidanglevn/haidanglevn/assets/24937536/be21a375-2e6c-4bf1-939d-cce1cd2fe075)
 
+- **MeChat chat app (ongoing)**: A fullstack chat app built with React and DotNet Core. [ [GitHub](https://github.com/haidanglevn/mechat-frontend) ]
+![mechat-frontend-demo](https://github.com/haidanglevn/haidanglevn/assets/24937536/e712a656-6e3f-47d1-a87d-f5c401c95144)
+
+
 - **SkillsBridge landing page for TUTORS Oy**: A front-end focused project that my team built during the internship with Tutors Oy. The page introduces SkillsBridge, an educational project funded by Erasmus+ that aims to research and build a platform to teach and learn game development. [ [Live Page](https://www.skillsbridge.eu/) ]
   
 ![skillsbridge1](https://github.com/haidanglevn/haidanglevn/assets/24937536/c6a229bb-b249-4249-9b9b-87c54e3a14e0)

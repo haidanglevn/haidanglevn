@@ -5,7 +5,11 @@ I'm a Helsinki-based Full Stack Web Developer. You can find all my projects here
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidanglevn)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=haidanglevn&color=green)
 
+
 Here are some things that I made (and more are coming!):
+- **Nearby Wolt**: A Flutter frontend application that fetches data from the Wolt API to display nearby venues based on user's location. [GitHub](https://github.com/haidanglevn/wolt_assignment_flutter) ![nearby_light](https://github.com/user-attachments/assets/63cef86d-50d6-4a88-b5ba-c61ec1d49f8d)
+
+
 - **EcomEcho e-commerce platform**: A full-stack ecommerce app with React & Redux as frontend and ASP.Net Core & PostgreSQL as backend.[ [GitHub](https://github.com/haidanglevn/fs16_Frontend-project) | [LivePage](https://ecomecho.netlify.app/) ]
 ![ecomecho1](https://github.com/haidanglevn/haidanglevn/assets/24937536/3f12077e-0ab8-4fa5-ad4a-fea2937b7583)
 ![ecomecho2](https://github.com/haidanglevn/haidanglevn/assets/24937536/bc4266ed-f30b-4cc3-ab2f-2af780d2e2cc)
